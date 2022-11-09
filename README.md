@@ -1,0 +1,2 @@
+# Data-Engineering-Data-warehouse-tech-stack-with-MySQL-DBT-Airflow
+ to modifay the  created an AI startup  on the way it fits that deploys sensors to businesses, collects data from all activities in a business - people’s interaction, traffic flows, smart appliances installed in a company. Your startup helps organisations obtain critical intelligence based on public and private data they collect and organise. 
