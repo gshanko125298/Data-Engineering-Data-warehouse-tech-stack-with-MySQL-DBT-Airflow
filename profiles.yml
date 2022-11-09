@@ -1,0 +1,13 @@
+# example profiles.yml file
+pNEUMA_DBT:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: <username>
+      password: <password>
+      port: 5434
+      dbname: <database>
+      schema: <schema>
+      threads: 4

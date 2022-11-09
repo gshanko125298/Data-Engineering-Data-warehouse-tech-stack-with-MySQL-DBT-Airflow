@@ -1,0 +1,9 @@
+
+
+============================== 2022-09-24 17:35:18.530210 | 06ff151f-fdb2-4bd2-9ad7-22be240358a7 ==============================
+17:35:18.530210 [info ] [MainThread]: Running with dbt=1.1.0
+17:35:18.543220 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Genet Shanko\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+17:35:18.544214 [debug] [MainThread]: Tracking: tracking
+17:35:18.591497 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274AAEE2A40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274AAEE2E30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274AAEE2BF0>]}
+17:35:18.599069 [debug] [MainThread]: Executing "git --help"
+17:35:18.681677 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274AAE96B90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274AAE97280>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274AAE97EB0>]}
